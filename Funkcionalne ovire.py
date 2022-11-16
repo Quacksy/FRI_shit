@@ -84,6 +84,8 @@ def senca(ovire):
             s[i] = False
     return s
 
+print("tvoj program je smeti")
+
 
 import unittest
 
