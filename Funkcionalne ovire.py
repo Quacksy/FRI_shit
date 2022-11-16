@@ -84,7 +84,8 @@ def senca(ovire):
             s[i] = False
     return s
 
-print("tvoj program je smeti")
+print('zakaj noce updejtat zanimivo')
+print('kako sploh deluje to sranje')
 
 
 import unittest
