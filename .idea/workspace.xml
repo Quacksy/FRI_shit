@@ -28,20 +28,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="57249d30-4844-42a6-a384-8ae6e242338a" name="Changes" comment="" />
+      <changelist id="572fffd1-acd7-4a0a-83bc-d651c50be2a3" name="Changes" comment="" />
       <created>1668594466792</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668594466792</updated>
+      <workItem from="1668596802581" duration="25000" />
     </task>
     <servers />
   </component>
