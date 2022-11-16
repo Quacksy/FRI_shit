@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57249d30-4844-42a6-a384-8ae6e242338a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Funkcionalne ovire.py" beforeDir="false" afterPath="$PROJECT_DIR$/Funkcionalne ovire.py" afterDir="false" />
-    </list>
+    <list default="true" id="57249d30-4844-42a6-a384-8ae6e242338a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,5 +52,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
